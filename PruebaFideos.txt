@@ -1,6 +1,6 @@
 public class PruebaFideos{
 	public static void main(String[] args){
-		Fideos f = new Fideos("coditos",40);
+		Fideos f = new Fideos("tirabuzon",40);
 		System.out.println("Los fideos " + f.getTipo + " tienen un precio de "+ f.getPrecio); 
 	}
 }
